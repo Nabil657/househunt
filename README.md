@@ -1,1 +1,1 @@
-# image-resize-website
+# A rental listing website
